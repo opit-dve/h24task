@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Home24Task</string>
+    <string name="start">Start</string>
+    <string name="dislike">Dislike</string>
+    <string name="like">Like</string>
+    <string name="review">Review</string>
+    <string name="end_of_articles">End of Articles</string>
+
+    <string name="error_loading_articles">Error loading articles</string>
+
+    <string name="screen_title_article_selection">Article Selection</string>
+    <string name="screen_title_review">Review</string>
+    <string name="action_grid">Grid</string>
+    <string name="action_list">List</string>
+    <string name="no_results">No Results</string>
+
+</resources>
